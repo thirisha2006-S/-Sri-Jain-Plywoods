@@ -1,4 +1,5 @@
 # Sri Jain Plywood website — setup guide
+
 - Business details: edit `src/data/site.ts` (phone, address, opening hours, social links).
 - Products: edit `src/data/catalog.ts`. Fill `thicknesses`, `sizes`, `brands` only with verified info. Set `stocked: false` to hide a category.
 - Collections & visualizer: same file (`COLLECTIONS`, `SCENES`, `FINISHES`).

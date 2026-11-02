@@ -9,7 +9,13 @@ export function localBusinessJsonLd() {
       "@type": "HomeAndConstructionBusiness",
       name: SITE.name,
       telephone: "+91-44-2766-5382",
-      address: { "@type": "PostalAddress", addressLocality: "Kakkalur", addressRegion: "Tamil Nadu", postalCode: "602001", addressCountry: "IN" },
+      address: {
+        "@type": "PostalAddress",
+        addressLocality: "Kakkalur",
+        addressRegion: "Tamil Nadu",
+        postalCode: "602001",
+        addressCountry: "IN",
+      },
       hasMap: SITE.mapsShareUrl,
     }),
   };

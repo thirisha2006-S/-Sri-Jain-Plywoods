@@ -17,8 +17,10 @@ const buttonVariants = cva(
         ghost: "hover:bg-accent hover:text-accent-foreground",
         link: "text-primary underline-offset-4 hover:underline",
         gold: "bg-gold text-charcoal hover:bg-oak tracking-wide uppercase text-xs font-semibold",
-        walnut: "bg-walnut text-ivory hover:bg-charcoal tracking-wide uppercase text-xs font-semibold",
-        ghostLight: "border border-ivory/50 text-ivory hover:bg-ivory/10 tracking-wide uppercase text-xs font-semibold",
+        walnut:
+          "bg-walnut text-ivory hover:bg-charcoal tracking-wide uppercase text-xs font-semibold",
+        ghostLight:
+          "border border-ivory/50 text-ivory hover:bg-ivory/10 tracking-wide uppercase text-xs font-semibold",
         line: "border border-walnut/30 text-walnut hover:border-gold hover:bg-gold/10 tracking-wide uppercase text-xs font-semibold",
         whatsapp: "bg-whatsapp text-ivory hover:opacity-90 font-semibold",
       },
