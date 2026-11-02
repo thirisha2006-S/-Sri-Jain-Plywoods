@@ -3,8 +3,8 @@
 export const SITE = {
   name: "Sri Jain Plywood",
   tagline: "Plywood & Interior Materials",
-  phoneDisplay: "044 2766 5382",
-  phoneRaw: "04427665382",
+  phoneDisplay: "9380713280",
+  phoneRaw: "9380713280",
   // Address as shown on the shop's Google Maps listing. Confirm the full street address with the owner.
   addressArea: "MGM Nagar, Kakkalur, Tamil Nadu 602001",
   mapsPlaceQuery: "Jain plywoods, MGM Nagar, Kakkalur, Tamil Nadu 602001",
